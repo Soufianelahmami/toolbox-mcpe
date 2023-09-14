@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Minecraft Pocket Edition (MCPE), now known as Minecraft Bedrock Edition, has captured the hearts of millions of players worldwide since its release ",
+   "photo1":"https://iili.io/JH55cMX.webp"},
+  {"desc2":"This mobile and console-friendly version of the popular sandbox game offers endless opportunities for creativity and exploration","photo2":"https://iili.io/JH55ant.webp"},
+  {"desc3":"To make the most of your MCPE adventures, you need the right tools in your toolbox. In this article, we'll explore the essential items and resources every MCPE player should have at their disposal","photo3":"https://iili.io/JH55lPn.webp"},
+  {"desc4":"A reliable pickaxe is a must-have tool in your MCPE toolbox. It's essential for mining various resources like coal, iron, diamonds, and more","photo4":"https://iili.io/JH551Fs.webp"},
+  {"desc5":"You'll also need it to break through stone and other blocks as you explore underground caves and tunnels","photo5":"https://iili.io/JH55EcG.webp"},
+  {"descd":"The quality of your pickaxe matters; diamond pickaxes are the most durable and efficient","photod":"https://iili.io/JH55GSf.webp"}
    ]
  
 }
